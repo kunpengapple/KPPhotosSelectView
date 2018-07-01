@@ -1,0 +1,6 @@
+framework module Pods_KPPhotoSelectViewLib_Tests {
+  umbrella header "Pods-KPPhotoSelectViewLib_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
