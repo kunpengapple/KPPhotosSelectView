@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'KPPhotoSelectViewLib_Example' do
+  pod 'KPPhotoSelectViewLib', :path => '../'
+
+  target 'KPPhotoSelectViewLib_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
